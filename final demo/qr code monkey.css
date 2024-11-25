@@ -1,0 +1,63 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    list-style-type: none;
+    padding-bottom: 40px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    justify-items: baseline;
+    padding-bottom: 20px;
+}
+.well{
+    background-color: #006b42e4;
+
+}
+.select{
+    color: #006400ee;
+    border: dotted;
+}
+.section1{
+    background-color: #3dc7d434;
+}
+.theimage{
+    width: 80px;
+}
+.button{
+    background-color: rgb(4, 156, 251);
+    color: white;
+    border: hidden;
+    height: 40px;
+    width: 120px;
+}
+.div2{
+    display: flex;
+    gap: 50px;
+}
+.section3{
+    background-color: #3dc7d434;
+}
+.qrcodesimage{
+    width: 140px;
+    margin-left: 55px;
+    
+}
+.section4{
+    background-color: white;
+}
+.lastsection{
+    background-color: #343a40;
+}
+.lastbutton{
+    color: white;
+    background-color: #343a40;
+    border: hidden;
+}
